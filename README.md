@@ -2,7 +2,6 @@
 
 <p align="center">I am Houston, Texas based Software Engineer at 100Devs Agency. With a focus on Full Stack JavaScript (MERN) and a background in education, you need an educator like me on your team. With a unique blend of creative and analytical, I bring to the table my experience designing and implementing instructor-led blended and e-learning programs. I use my skills to craft iterative learning experiences to meet organizational objectives resulting in high levels of performance and engagement. Let's see what we can learn together!</p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshanell&" alt="roshanell" /></p>
 
 - 🔭 I’m currently working on **Houston Stargazers Site with NASA APOD Integration**
