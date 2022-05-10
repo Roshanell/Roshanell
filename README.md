@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Roshanell your next Full-Stack JavaScript Developer</h1>
 
-<h4 align="center">I am Houston, Texas based Software Engineer at 100Devs Agency. With a focus on Full Stack JavaScript (MERN) and a background in education, you need an educator like me on your team. With a unique blend of creative and analytical, I bring to the table my experience designing and implementing instructor-led blended and e-learning programs. I use my skills to craft iterative learning experiences to meet organizational objectives resulting in high levels of performance and engagement. Let's see what we can learn together!</h4>
+<p align="center">I am Houston, Texas based Software Engineer at 100Devs Agency. With a focus on Full Stack JavaScript (MERN) and a background in education, you need an educator like me on your team. With a unique blend of creative and analytical, I bring to the table my experience designing and implementing instructor-led blended and e-learning programs. I use my skills to craft iterative learning experiences to meet organizational objectives resulting in high levels of performance and engagement. Let's see what we can learn together!</p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshanell&" alt="roshanell" /></p>
