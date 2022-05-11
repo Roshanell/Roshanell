@@ -22,10 +22,10 @@
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanell&" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=roshanell&&amp;hide_border=true&amp;currStreakNum=a6b4a2&amp;ring=ffffff&amp;background=12160F&amp;sideLabels=ffffff&amp;sideNums=ffffff&amp;fire=ffffff&amp;currStreakLabel=a6b4a2&amp;dates=959595" style="max-width: 100%;">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshanell&" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=roshanell&&amp;hide_border=true&amp;currStreakNum=a6b4a2&amp;ring=ffffff&amp;background=12160F&amp;sideLabels=ffffff&amp;sideNums=ffffff&amp;fire=ffffff&amp;currStreakLabel=a6b4a2&amp;dates=959595" style="max-width: 100%;">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshanell&" alt="roshanell" /></p>
-
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshanell&" alt="roshanell" /></p>
+ -->
 
 - 🔭 I’m currently working on **Houston Stargazers Site with NASA APOD Integration**
 
