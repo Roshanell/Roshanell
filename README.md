@@ -21,8 +21,8 @@
 
 
 
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshanell&" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=roshanell&&amp;hide_border=true&amp;currStreakNum=a6b4a2&amp;ring=ffffff&amp;background=12160F&amp;sideLabels=ffffff&amp;sideNums=ffffff&amp;fire=ffffff&amp;currStreakLabel=a6b4a2&amp;dates=959595" style="max-width: 100%;">
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshanell&" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=roshanell&&amp;hide_border=true&amp;currStreakNum=a6b4a2&amp;ring=ffffff&amp;background=12160F&amp;sideLabels=ffffff&amp;sideNums=ffffff&amp;fire=ffffff&amp;currStreakLabel=a6b4a2&amp;dates=959595" style="max-width: 100%;"> </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshanell&" alt="roshanell" /></p>
  -->
