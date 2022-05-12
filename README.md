@@ -11,6 +11,9 @@
 
 
 
+<h2 align="center">Languages and Tools:</h2>
+
+
  <table>
       <tbody><tr>
 	      <td> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>
@@ -26,13 +29,8 @@
 		      
 <!-- 		       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>  -->
 	      </td>
-	      
- 
-		
-</table>
+	      </table>
 
-
-<h2 align="center">Languages and Tools:</h2>
 
 
 
