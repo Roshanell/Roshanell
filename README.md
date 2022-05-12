@@ -26,7 +26,44 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshanell&" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=roshanell&&amp;hide_border=true&amp;currStreakNum=a6b4a2&amp;ring=ffffff&amp;background=12160F&amp;sideLabels=ffffff&amp;sideNums=ffffff&amp;fire=ffffff&amp;currStreakLabel=a6b4a2&amp;dates=959595" style="max-width: 100%;"> </p>
 
-
+<div align="center" dir="auto">
+<table>
+	<tbody><tr>
+		<td valign="top" width="45%">
+			<h3 align="center" color="white" dir="auto"><a id="user-content-frontend" class="anchor" aria-hidden="true" href="#frontend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Frontend</h3>
+			<br>
+			<div align="center" dir="auto">
+            	&nbsp;
+		<a target="_blank" rel="noopener noreferrer" href="https://github.com/erikateal/READMEAssets/blob/main/icons/html5.svg"><img src="https://github.com/erikateal/READMEAssets/raw/main/icons/html5.svg" alt="HTML5" height="50" style="max-width: 100%;"></a>
+		&nbsp;&nbsp;&nbsp;
+                <a target="_blank" rel="noopener noreferrer" href="https://github.com/erikateal/READMEAssets/blob/main/icons/css3.svg"><img src="https://github.com/erikateal/READMEAssets/raw/main/icons/css3.svg" alt="CSS3" height="50" style="max-width: 100%;"></a>
+		&nbsp;&nbsp;&nbsp;
+                <a target="_blank" rel="noopener noreferrer" href="https://github.com/erikateal/READMEAssets/blob/main/icons/javascript.svg"><img src="https://github.com/erikateal/READMEAssets/raw/main/icons/javascript.svg" alt="JavaScript" height="50" style="max-width: 100%;"></a>
+		&nbsp;&nbsp;&nbsp;
+                <a target="_blank" rel="noopener noreferrer" href="https://github.com/erikateal/READMEAssets/blob/main/icons/react.svg"><img src="https://github.com/erikateal/READMEAssets/raw/main/icons/react.svg" alt="React" height="50" style="max-width: 100%;"></a>
+			</div>
+			</td>
+		<td valign="top" width="45%">
+			<h3 align="center" color="white" dir="auto"><a id="user-content-backend" class="anchor" aria-hidden="true" href="#backend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Backend</h3>
+			<br>
+            <div align="center" dir="auto">
+			&nbsp;
+		<a target="_blank" rel="noopener noreferrer" href="https://github.com/erikateal/READMEAssets/blob/main/icons/mongodb.svg"><img src="https://github.com/erikateal/READMEAssets/raw/main/icons/mongodb.svg" alt="MongoDB" height="50" style="max-width: 100%;"></a>
+                &nbsp;&nbsp;&nbsp;
+                <a target="_blank" rel="noopener noreferrer" href="https://github.com/erikateal/READMEAssets/blob/main/icons/express.svg"><img src="https://github.com/erikateal/READMEAssets/raw/main/icons/express.svg" alt="Express" height="50" style="max-width: 100%;"></a>
+		&nbsp;&nbsp;&nbsp;
+                <a target="_blank" rel="noopener noreferrer" href="https://github.com/erikateal/READMEAssets/blob/main/icons/git.svg"><img src="https://github.com/erikateal/READMEAssets/raw/main/icons/git.svg" alt="Git" height="50" style="max-width: 100%;"></a>
+		&nbsp;&nbsp;&nbsp;
+                <a target="_blank" rel="noopener noreferrer" href="https://github.com/erikateal/READMEAssets/blob/main/icons/javascript.svg"><img src="https://github.com/erikateal/READMEAssets/raw/main/icons/javascript.svg" alt="JavaScript" height="50" style="max-width: 100%;"></a>
+		&nbsp;&nbsp;&nbsp;
+                <a target="_blank" rel="noopener noreferrer" href="https://github.com/erikateal/READMEAssets/blob/main/icons/nodedotjs.svg"><img src="https://github.com/erikateal/READMEAssets/raw/main/icons/nodedotjs.svg" alt="Node.js" height="50" style="max-width: 100%;"></a>
+				<br>
+				<br>	
+			</div>
+		</td>
+	</tr>
+</tbody></table>
+</div>
 
 <h3 align="center">More about Me:</h3>
 
