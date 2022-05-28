@@ -37,7 +37,14 @@
 			<br>
 			<div align="center" dir="auto">
             	&nbsp;
-		![Recording 2022-05-15 at 16 21 51](https://user-images.githubusercontent.com/96213223/170836765-d1896160-2c40-4253-b891-2143dbca61fb.gif)
+				<a target="_blank" rel="noopener noreferrer" href="https://github.com/erikateal/READMEAssets/blob/main/icons/html5.svg"><img src="https://github.com/erikateal/READMEAssets/raw/main/icons/html5.svg" alt="HTML5" height="50" style="max-width: 100%;"></a>
+		&nbsp;&nbsp;&nbsp;
+                <a target="_blank" rel="noopener noreferrer" href="https://github.com/erikateal/READMEAssets/blob/main/icons/css3.svg"><img src="https://github.com/erikateal/READMEAssets/raw/main/icons/css3.svg" alt="CSS3" height="50" style="max-width: 100%;"></a>
+		&nbsp;&nbsp;&nbsp;
+                <a target="_blank" rel="noopener noreferrer" href="https://github.com/erikateal/READMEAssets/blob/main/icons/javascript.svg"><img src="https://github.com/erikateal/READMEAssets/raw/main/icons/javascript.svg" alt="JavaScript" height="50" style="max-width: 100%;"></a>
+		&nbsp;&nbsp;&nbsp;
+                <a target="_blank" rel="noopener noreferrer" href="https://github.com/erikateal/READMEAssets/blob/main/icons/react.svg"><img src="https://github.com/erikateal/READMEAssets/raw/main/icons/react.svg" alt="React" height="50" style="max-width: 100%;"></a>
+
 
 			</div>
 			</td>
