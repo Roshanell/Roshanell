@@ -28,7 +28,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshanell&" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=roshanell&&amp;hide_border=true&amp;currStreakNum=a6b4a2&amp;ring=ffffff&amp;background=12160F&amp;sideLabels=ffffff&amp;sideNums=ffffff&amp;fire=ffffff&amp;currStreakLabel=a6b4a2&amp;dates=959595" style="max-width: 100%;"> </p>
 
 
-<h2 align="center"> Projects.... Pending! </h2>
+<h2 align="center"> Projects! </h2>
 
 <div align="center" dir="auto">
 
