@@ -40,7 +40,7 @@
 <h3 align="center">More about Me:</h3>
 
 
-- 🔭 I’m currently learning  **how to create APIs, React.JS, MongoDB**
+- 🔭 I’m currently learning  **backend ia Node/Express**
 
 - 💬 Ask me about **sci-fi, spooky, or mythological things!**
 
