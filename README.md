@@ -40,7 +40,7 @@
 <h3 align="center">More about Me:</h3>
 
 
-- 🔭 I’m currently learning  **backend ia Node/Express**
+- 🔭 I’m currently learning  **backend**
 
 - 💬 Ask me about **sci-fi, spooky, or mythological things!**
 
