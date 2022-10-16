@@ -1,7 +1,7 @@
 
 
 
-<img align="center" src="https://i.imgur.com/n9kbTiv.png" alt="Roshanell - Software Engineer Header" style="max-width: 100%;">
+<img align="center" src="https://i.imgur.com/mK8qMra.png" alt="Roshanell - Software Engineer Header" style="max-width: 100%;">
 
 
 
