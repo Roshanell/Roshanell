@@ -30,7 +30,6 @@
 | Name of Project | Overview|
 | ------------- | ------------- |
 | Vegetarian Cheker  |![Recording 2022-05-15 at 16 21 51](https://user-images.githubusercontent.com/96213223/170837052-1ed6644b-6f47-4a85-9c8d-cb3565cb544f.gif) |
-
 | Sunnyside Marketing  |  ![Recording 2022-07-13 at 19 08 12](https://user-images.githubusercontent.com/96213223/180039380-cee9103f-b8e7-400a-aae9-a2596f661614.gif)|
 
 
