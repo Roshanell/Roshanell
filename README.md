@@ -33,8 +33,9 @@
 | Sunnyside Marketing  |  ![Recording 2022-07-13 at 19 08 12](https://user-images.githubusercontent.com/96213223/180039380-cee9103f-b8e7-400a-aae9-a2596f661614.gif)|
 
 	
+	![ezgif com-gif-maker (1)](https://github.com/Roshanell/Roshanell/assets/96213223/9b9ab815-e3bf-44a7-8207-41cc84c41536)
+
 	
-	![Uploading ezgif.com-gif-maker (1).gif…]()
 
 
 </div>
