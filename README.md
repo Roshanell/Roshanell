@@ -8,7 +8,7 @@
 <h2 align="center">Hi there 👋 I'm Roshanell your next Full-Stack JavaScript Developer</h2>
 
 
-<p align="center">I am Houston, Texas based Software Engineer in Training @ Techtonica. With a focus on Full Stack JavaScript (PERN) and a background in education, you need philomath like me on your team. With a unique blend of creative and analytical I bring to the table the ability to analyze structured and unstructured data. I am a lifelong learner with 4 years of professional experience. Proven track record of creating and implementing successful front and back-end web application. I am a self starter, a lifelong learner, and a highly skilled with learning new technologies. Ask me how I can bring my experience to your company. Please take a look around, and see what I've been up to. Let's see what we can learn together!</p>
+<p align="center">I am Houston, Texas based Apprentice Software Engineer at Honeycomb.io. With a focus on Full Stack JavaScript (P/MERN) and a background in education, you need philomath like me on your team. With a unique blend of creative and analytical I bring to the table the ability to analyze structured and unstructured data. I am a lifelong learner with 4 years of professional experience. Proven track record of creating and implementing successful front and back-end web application. I am a self starter, a lifelong learner, and a highly skilled with learning new technologies. Ask me how I can bring my experience to your company. Please take a look around, and see what I've been up to. Let's see what we can learn together!</p>
 
 
 
