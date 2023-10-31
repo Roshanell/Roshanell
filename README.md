@@ -44,7 +44,7 @@
 <h3 align="center">More about Me:</h3>
 
 
-- 🔭 I’m currently learning  **backend**
+- 🔭 I’m currently learning  **Testing with Jest**
 
 - 💬 Ask me about **sci-fi, spooky, or mythological things!**
 
