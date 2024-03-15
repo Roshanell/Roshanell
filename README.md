@@ -11,7 +11,7 @@
 <h1></h1>
 
 
-<p align="center">Front-End Engineer committed to pioneering solutions, I specialize in React, TypeScript, and Tailwind, blending creativity with technical prowess. My toolkit encompasses MongoDB, Node.js, PostgreSQL, SQL, A/B testing, Jest, CI/CD, and Git/GitHub for comprehensive development solutions. </p>
+<p align="left">Front-End Engineer committed to pioneering solutions, I specialize in React, TypeScript, and Tailwind, blending creativity with technical prowess. My toolkit encompasses MongoDB, Node.js, PostgreSQL, SQL, A/B testing, Jest, CI/CD, and Git/GitHub for comprehensive development solutions. </p>
 
 
 
