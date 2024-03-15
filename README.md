@@ -3,8 +3,12 @@
 <img align="center" src="https://i.imgur.com/dcep3Y3.png" alt="Roshanell - Software Engineer Header" style="max-width: 100%;">
 
 
+<div align="center">
 
-<h2 align="center">Hi there 👋 I'm Roshanell your next Software Engineer</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=000000&background=FFFFFFF7&center=true&vCenter=true&random=false&width=435&lines=Hi+there+I'm+Roshanell.;Your+next+Software+Engineer!;React%2C+Tailwind%2C+TypeScript)](https://git.io/typing-svg)
+
+</div>
+<h1></h1>
 
 
 <p align="center">Analytical Software Engineer with 2+ years of hands-on experience. Dynamic team player with strong understanding of React.js/Javascript programming  serving as an equally critical asset in both collaborative environments and individual contributor roles. Software Engineer skilled in crafting efficient software applications, adept at debugging code, and tackling complex challenges. Actively seeking professional opportunities with organizations to further expand my experience in full stack web development. </p>
