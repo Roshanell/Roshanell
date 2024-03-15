@@ -11,7 +11,7 @@
 <h1></h1>
 
 
-<p align="center">Analytical Software Engineer with 2+ years of hands-on experience. Dynamic team player with strong understanding of React.js/Javascript programming  serving as an equally critical asset in both collaborative environments and individual contributor roles. Software Engineer skilled in crafting efficient software applications, adept at debugging code, and tackling complex challenges. Actively seeking professional opportunities with organizations to further expand my experience in full stack web development. </p>
+<p align="center">Front-End Engineer committed to pioneering solutions, I specialize in React, TypeScript, and Tailwind, blending creativity with technical prowess. My toolkit encompasses MongoDB, Node.js, PostgreSQL, SQL, A/B testing, Jest, CI/CD, and Git/GitHub for comprehensive development solutions. </p>
 
 
 
